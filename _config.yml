@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    sal:
+    anastasia:
       name:           Anastasia
       site:           https://www.bitdna.io
       avatar:         //blog.bitdna.io/assets/images/avatar1.jpg

@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
 disqus: 'bitdna-blog'
 email: 'help@bitdna.io'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://okanemo.us19.list-manage.com/subscribe/post?u=c9e072742b02d9d0e80e7afcf&id=600c434a05'
 
 include: ["_pages"]
 permalink: /:title/

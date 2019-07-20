@@ -1,7 +1,7 @@
 # Site
 name: 'BITDNA Blog'
 description: 'Technology News Blog for Tips, News and More'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/bitdna-blog.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'

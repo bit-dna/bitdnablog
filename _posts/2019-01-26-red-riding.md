@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Red Riding Hood"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/3.jpg
 ---

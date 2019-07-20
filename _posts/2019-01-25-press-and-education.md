@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Press and education"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/7.jpg
 ---

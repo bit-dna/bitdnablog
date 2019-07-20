@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "System Integrator Services"
+author: anastasia
 categories: [ What's New ]
 image: assets/images/img/system-integrator.jpg
 ---

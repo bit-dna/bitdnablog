@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: anastasia
 categories: [ What's New ]
 image: assets/images/demo1.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/2.jpg
 ---

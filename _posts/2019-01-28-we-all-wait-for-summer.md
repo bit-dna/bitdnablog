@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We all wait for summer"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/1.jpg
 tags: [featured]

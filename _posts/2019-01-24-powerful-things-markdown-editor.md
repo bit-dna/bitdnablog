@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/4.jpg
 tags: [featured]

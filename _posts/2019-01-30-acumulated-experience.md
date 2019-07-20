@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accumulated experience of social living"
-author: Anastasia
+author: anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/15.jpg
 ---

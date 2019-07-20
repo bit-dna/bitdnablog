@@ -4,8 +4,8 @@ description: 'Technology News Blog for Tips, News and More'
 logo: 'assets/images/bitdna-blog.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'bitdna-blog'
+email: 'help@bitdna.io'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -37,6 +37,8 @@ authors:
 
 # Defaults
 defaults:
+
+
 
   # all posts
   - scope:

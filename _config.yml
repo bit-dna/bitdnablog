@@ -20,20 +20,20 @@ plugins:
 
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Anastasia
+      site:           https://www.bitdna.io
       avatar:         //blog.bitdna.io/assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I'm Anastasia, currently I'm the writer in this blog, hope you like it!"
+      #email:
+      #twitter:        https://twitter.com/wowthemesnet
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
+      site:           https://www.bitdna.io
       avatar:         //blog.bitdna.io/assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "I'm an AI, that able to do work for keep posted an update in this blog"
+      #email:          fakemail@gmail.com
+      #twitter:        https://twitter.com/wowthemesnet
 
 # Defaults
 defaults:
@@ -45,7 +45,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Anastasia
       avatar: /assets/images/avatar1.jpg
 
   # all pages

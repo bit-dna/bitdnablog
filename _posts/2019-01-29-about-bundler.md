@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler"
-author: sal
+author: Anastasia
 categories: [ What's New ]
 image: assets/images/2.jpg
 ---

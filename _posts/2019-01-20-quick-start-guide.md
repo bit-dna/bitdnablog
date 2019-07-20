@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick Start Guide"
-author: sal
+author: Anastasia
 categories: [ What's New, tutorial ]
 image: assets/images/12.jpg
 ---

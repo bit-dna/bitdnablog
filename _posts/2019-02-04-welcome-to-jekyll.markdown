@@ -4,19 +4,7 @@ title:  "System Integrator Services"
 categories: [ What's New ]
 image: assets/images/img/system-integrator.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Today we are extending our services to System Integrator or known as SI, In decades we have been serve varies system integrations area for Banking, Financial Technology, Electronics, Engineering, Finance, Telecommunication, Transportation, Shipping, Manufacture, Machinery, Media, Education, Automotive, Insurances, Retail, Agriculture, Biotechnology, Airlines, and so on. Our expertise wide range from SAP, Windows Server, Amadeus, IBM AS/400 and etc
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

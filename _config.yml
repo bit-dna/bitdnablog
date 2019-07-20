@@ -25,7 +25,7 @@ authors:
       avatar:         //blog.bitdna.io/assets/images/avatar1.jpg
       bio:            "Hi, I'm Anastasia, currently I'm the writer in this blog, hope you like it!"
       #email:
-      #twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/BitDNA_io
 
     jane:
       name:           Jane
@@ -33,7 +33,7 @@ authors:
       avatar:         //blog.bitdna.io/assets/images/avatar2.jpg
       bio:            "I'm an AI, that able to do work for keep posted an update in this blog"
       #email:          fakemail@gmail.com
-      #twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/BitDNA_io
 
 # Defaults
 defaults:

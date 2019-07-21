@@ -6,7 +6,7 @@ categories: [ What's New, Tips ]
 image: assets/images/img/startup-icon.jpg
 tags: [startup]
 ---
-At the very beginning BITDNA are only startup where it's only a few people are work with us and we only have a few capital in our bank account. But then we received only a few projects at that time, during 2010 back then our Founder itself are our engineer, wrote the code, do soft selling, pitching to customer, calculate some amount of for our projects.
+There are lot of things we do in the past since the very beginning BITDNA are only startup where it's only a few people are work with us and we only have a few capital in our bank account. But then we received only a few projects at that time, during 2010 back then our Founder itself are our engineer, wrote the code, do soft selling, pitching to customer, calculate some amount of for our projects.
 
 That is the reason why we at July 20019 startup supporter. What's that meant ? It's mean since we are origin from startup we would like to help those startup are needs our help which is definitely raging from create an application, help some resources for software engineer, create a beautiful sales deck or investment deck, dedicated resources software engineer and many others.
 

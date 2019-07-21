@@ -2,9 +2,9 @@
 layout: post
 title:  "7 Reasons Customer Service Is Important to Your Business"
 author: anastasia
-categories: [ What's New ]
+categories: [ customer service ]
 image: assets/images/img/7reasonscustomerserviceisimportanttoyourbusiness.jpg
-tags: [customer service]
+tags: [customer, service, cs]
 ---
 When your business is on a low budget, there are probably several areas that come in high priority when allocating funds. Of course, your product team could use some financial assistance. Marketing -- especially advertising -- could always use a little padding.
 

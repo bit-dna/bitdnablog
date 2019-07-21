@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
+title:  "Join our affiliates program"
+author: anastasia
 categories: [ What's New, tutorial ]
-image: assets/images/img/home.jpg
+image: assets/images/img/bitdna-affiliates.jpg
 tags: [sticky]
 ---
 

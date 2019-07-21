@@ -18,4 +18,4 @@ In our organizational structure, we still do some things that startups do becaus
 
 If you're startup and need ranging from Backend Engineers, DevOps, Front-end Engineer, Cloud Orchestrator, Designer contact us for <a href="https://blog.bitdna.io/contact.html">further information and pricing structure</a>
 
-<small>PS: We donate 5% of our profits to our charity program for startup supporter</small>
+<small>PS: We donate 5% of our profits to our charity program for startup supporter program</small>

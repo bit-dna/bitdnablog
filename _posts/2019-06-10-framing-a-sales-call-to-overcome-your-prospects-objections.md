@@ -26,11 +26,11 @@ A good frame embraces the emotional impact of what you’re selling; it gets the
 
 The key to vision is to get the prospect focused on the end result, on what it is that the prospect gets in return for buying your solution. Most frames fail here. They focus on prices, features, competitive challenges etc. These frames lack vision. Good examples of end results to anchor the vision in include X additional customers, greater productivity, gaining competitive advantage, and Y% ROI. Good frames anchor prospects in the positive change from their existing situation.
 
-<h3>Ownership</h3>
+<h3>3. Ownership</h3>
 
 This is a big one. Framing around ownership is creating a frame where the prospect feels a part of the solution; they feel as if they are part of the creation of the solution, an additional element, the implementation, or some other important aspect. Frames that elicit ownership make buyers feel part of the process. Ownership highlights what they get personally when they choose you. Unlike vision, this frame spells out the personal benefits of decision. The more ownership and participation the frame contains for the buyer, the less objections their inside voice has.
 
-<h3>Final Outcome</h3>
+<h3>Outcomes</h3>
 
 The best frames keenly focus on the outcomes. Every element above; the emotion, the vision, the ownership must all be anchored in the outcome. Features, benefits, pricing, competitive differentiators, etc. are not outcomes; they are simply elements in achieving the outcomes. If your frame is not anchored in the outcome, don’t use it. Period!
 

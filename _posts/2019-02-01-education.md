@@ -1,48 +1,48 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ What's New, tutorial ]
-image: assets/images/img/3.jpg
+title:  "9 Ways to Respond When Your Prospect Asks for a Discount"
+categories: [ Sales, Tips ]
+image: assets/images/img/9waystorespondwhenyourprospectasksforadiscount.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor
+A discount can help accelerate a slow-moving deal, create goodwill, and give you leverage for requesting concessions.
 
-If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+But you’ll only reap these benefits by discounting strategically -- not whenever your prospect asks for one.
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Promising your prospect a discount before the actual negotiation can have three negative consequences:
 
+<ol>
+<li>The buyer subconsciously attributes less value to you and your product. After all, if its ROI is what you claim, why are you so willing to sell it for less?</li>
+<li>The focus shifts from value to price. Instead of talking and thinking about your product’s potential impact on their business, the prospect is thinking about how much it costs.</li>
+<li>You lose some of your bargaining power. Successful negotiations require give-and-take.
+If you offer a discount in the beginning stages of the sales process, you’ll miss the opportunity to ask for something in return because you don’t yet know what your prospect wants. That sets a dangerous precedent of one-way</li>
+</ol>
 
-## Special formatting
+If you offer a discount in the beginning stages of the sales process, you’ll miss the opportunity to ask for something in return because you don’t yet know what your prospect wants. That sets a dangerous precedent of one-way concessions.
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+When the time comes to put together the actual agreement, the buyer will be accustomed to getting what they ask for without giving anything up.
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Of course, responding to discount inquiries during the actual negotiation is challenging too. You must satisfy your prospect’s expectations without destroying your profit margin.
 
+If you’re struggling to find the right words, use these replies throughout the sales conversation. And if your prospect says, "It costs too much," we've got a few answers for you here.
 
-## Writing code blocks
+<h2>How to Negotiate with Clients on Pricing and Discount Requests</h2>
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
+<strong>During the Connect Call</strong>
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
+1. “You’re asking the right person. But before we discuss discounting, let’s figure out what you’re looking for in an offering. That will allow me to give you a far more accurate estimate."
 
-If you want to get really fancy, you can even add syntax highlighting using Rouge.
+If the price of your product or service largely depends on the individual prospect’s needs, goals, and situation, it’s too early to discuss discounts. Without knowing the final value of the deal, you can’t determine a rate that will both satisfy them and keep you in business.
 
+<div class="card"">
+<div class="card-body">
+<h5 class="card-title">During the Connect Call</h5>
+<p class="card-text">Hello [Prospect name],
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+I appreciate your question. Before we talk about discounting, I'd love to find out a little more about the pain points and priorities of Wakanda Labs -- to ensure I can make the best recommendation on how we can help.
 
-## Reference lists
+I think we should set up a 30-minute call this week. Would you like to book a time on my calendar that's convenient for you? [Insert calendar link here]
 
-The quick brown jumped over the lazy.
+Best,
 
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+[Your Name]</p>
+</div>

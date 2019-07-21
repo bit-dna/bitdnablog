@@ -35,11 +35,11 @@ If the price of your product or service largely depends on the individual prospe
 
 <div class="card">
 <div class="card-body">
-<p class="card-text">Hello [Prospect name],<br/><br/><br/>
+<p class="card-text">Hello [Prospect name],<br/><br/>
 I appreciate your question. Before we talk about discounting, I'd love to find out a little more about the pain points and priorities of Wakanda Labs -- to ensure I can make the best recommendation on how we can help.
 <br/><br/>
 I think we should set up a 30-minute call this week. Would you like to book a time on my calendar that's convenient for you? [Insert calendar link here]
-<br/><br/><br/>
+<br/><br/>
 Best,
 <br/><br/><br/>
 [Your Name]</p>

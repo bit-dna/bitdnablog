@@ -3,7 +3,7 @@ layout: post
 title:  "Good bye Himagz!"
 author: anastasia
 categories: [ What's New ]
-image: assets/images/img/himagz-logo.png
+image: assets/images/img/himagz-logo.jpg
 ---
 One of our products that at the very beginning for blog, and day by day, month by month it became more popular. But today we decided to take down our products which is it's far more than our profits projection this year. For us there are several reasons instead not just being profitable:
 <ol>

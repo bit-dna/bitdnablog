@@ -33,7 +33,7 @@ If you’re struggling to find the right words, use these replies throughout the
 
 If the price of your product or service largely depends on the individual prospect’s needs, goals, and situation, it’s too early to discuss discounts. Without knowing the final value of the deal, you can’t determine a rate that will both satisfy them and keep you in business.
 
-<div class="card"">
+<div class="card">
 <div class="card-body">
 <h5 class="card-title">During the Connect Call</h5>
 <p class="card-text">Hello [Prospect name],
@@ -45,4 +45,5 @@ I think we should set up a 30-minute call this week. Would you like to book a ti
 Best,
 
 [Your Name]</p>
+</div>
 </div>

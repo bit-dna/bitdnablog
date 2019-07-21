@@ -15,7 +15,7 @@ A great company is a self sustaining entity that is no longer dependent on any s
 
 <img src="//blog.bitdna.io/assets/images/img/evaluating-startups_orig.png"/>
 
-<h2>Why Startups ?
+<h2>Why Startups ?</h2>
 
 Startups are “optimal” vehicles to validate and bring new innovations to the markets. Especially more disruptive innovations. Startups encapsulate all but only relevant things for what's needed to build new innovations with minimum “wasted resources” combined with maximum drive & motivation.
 

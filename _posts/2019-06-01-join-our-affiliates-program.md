@@ -17,4 +17,4 @@ If we accepted you as our partner you will receive Parter ID that you need to re
 
 Our commission fee based on percentage and depending of our big is it the project scope we are doing, Mostly our affiliates are receive commission 5% - 10% for one time, but again it's depend on the project condition.
 
-If you're interested to join our affiliates program, please kindly to fill this form <a href="https://forms.gle/rdCVZWXJur1QKUmc6" target="_blank">affiliates registration</a>
+If you're interested to join our affiliates program, please kindly to fill this form <a href="https://forms.gle/2vQs2ayVU3gJd5q36" target="_blank">affiliates registration</a>

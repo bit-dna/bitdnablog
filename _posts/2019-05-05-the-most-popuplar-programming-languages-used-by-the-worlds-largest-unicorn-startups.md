@@ -45,7 +45,7 @@ Here’s a look at their report:
 <li>Flask</li>
 <li>AngularJS</li>
 </ol>
-<strongMost used database technologies:</strong>
+<strong>Most used database technologies:</strong>
 <ol>
 <li>MySQL</li>
 <li>Redis</li>

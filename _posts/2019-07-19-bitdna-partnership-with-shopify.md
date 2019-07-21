@@ -19,3 +19,4 @@ Shopify are established since 2004 and now became the market leader for ecommerc
 </ol>
 
 Would like to read our presentation for partnership with Shopify? No worries we cover up [read the presentation](https://docs.google.com/presentation/d/e/2PACX-1vT32hDRrRDCY9fJ8ZRTLCqqe6vtlDa6YjjaUGwnfelKqb8scyKoUnOSLeHZQHLEqNpmJe4rV5aEM-ZW/pub?start=false&loop=false&delayms=60000){target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>

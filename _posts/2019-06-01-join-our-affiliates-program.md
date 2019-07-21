@@ -2,7 +2,7 @@
 layout: post
 title:  "Join our affiliates program"
 author: anastasia
-categories: [ What's New, tutorial ]
+categories: [ What's New ]
 image: assets/images/img/bitdna-affiliates.jpg
 tags: [sticky, featured]
 ---

@@ -13,7 +13,7 @@ And then now we are open to public using Google Forms for you to apply as our af
 
 We are using machine learning to analyze for instance are you suitable as our affiliates or not, and how much you able to refer some customers, and many others.
 
-If we accepted you as our partner you will receive Parter ID that you need to remember as we do validation when you're refer some customer to us.
+If we accepted you as our partner you will receive Affiliates ID that you need to remember as we do validation when you're refer some customer to us.
 
 Our commission fee based on percentage and depending of our big is it the project scope we are doing, Mostly our affiliates are receive commission 5% - 10% for one time, but again it's depend on the project condition.
 

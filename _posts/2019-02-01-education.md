@@ -29,7 +29,7 @@ If you’re struggling to find the right words, use these replies throughout the
 
 <strong>During the Connect Call</strong>
 
-1. “You’re asking the right person. But before we discuss discounting, let’s figure out what you’re looking for in an offering. That will allow me to give you a far more accurate estimate."
+<h3>1. “You’re asking the right person. But before we discuss discounting, let’s figure out what you’re looking for in an offering. That will allow me to give you a far more accurate estimate."</h3>
 
 If the price of your product or service largely depends on the individual prospect’s needs, goals, and situation, it’s too early to discuss discounts. Without knowing the final value of the deal, you can’t determine a rate that will both satisfy them and keep you in business.
 
@@ -48,7 +48,7 @@ Best Regards,
 
 Brushing off the prospect’s question will make you seem more interested in your agenda than their own. Instead, acknowledge them and explain why it’s mutually beneficial to table this discussion until later.
 
-2. “Good question. Do you see price being a major obstacle to this purchase?"
+<h3>2. “Good question. Do you see price being a major obstacle to this purchase?"</h3>
 
 There are some objections that can't be overcome. If your prospect’s request comes right after they've asked for pricing information or your prices are available online, it’s possible they don't have the budget to purchase your product at full price. They're trying to learn whether you’ll consider a discount. Say no, and they’ll likely walk away.
 
@@ -58,7 +58,7 @@ This question helps you figure out the buyer’s motivations. If they respond th
 
 <strong>During the Sales Presentation or Product Demonstration</strong>
 
-3. “We can definitely have a conversation about specific numbers, but let’s make sure we’re on the same page about this solution being a good fit for your needs."
+<h3>3. “We can definitely have a conversation about specific numbers, but let’s make sure we’re on the same page about this solution being a good fit for your needs."</h3>
 
 At this stage of the sales conversation, a discount request usually indicates the prospect’s desire to buy. Since they agreed to a demo or presentation, they’re clearly interested in the product -- now they’re thinking about the details of the purchase.
 
@@ -68,7 +68,7 @@ Use this response to delay the conversation. You’re not saying a discount is o
 
 <strong>Negotiation</strong>
 
-4. “Why?"
+<h3>4. “Why?"</h3>
 
 Speaker and writer Jurgen Appelo recommends using this simple and effective response when you’re negotiating with buyers who are haggling for the sake of it.
 
@@ -93,12 +93,12 @@ Best Regards,
 
 For example, the buyer might be dealing with a seasonal budget or experiencing a short-term cash deficit. Consider discounting in these cases -- but make sure you ask for something in return.
 
-5. “I can offer you a discount if we [extend the contract, adjust the terms of payment, go with X package or tier, register Y seats]."
+<h3>5. “I can offer you a discount if we [extend the contract, adjust the terms of payment, go with X package or tier, register Y seats]."</h3>
 Compromise is essential to most negotiations. By offering a quid pro quo discount, both you and the buyer will come out ahead.
 
 It’s a good idea to walk into the discussion with several non-monetary requests, which will help you open up the negotiating possibilities beyond price.
 
-6. “What would be a reasonable discount?"
+<h3>6. “What would be a reasonable discount?"</h3>
 MTD Sales Training managing director Sean McPheat suggests using the prospect’s response to turn the question around.
 
 If your product is $10,000 and the buyer says she’d like a 15% discount, ask, “Are you saying you think $10,000 is too expensive for [product] or you don’t want to spend more than $8,500?"
@@ -131,19 +131,19 @@ Best Regards,
 
 Once the buyer remembers your product will save them money in the long run, they’ll probably back off or soften their request.
 
-7. "What would need to happen to make our offering worth the price I quoted you?"
+<h3>7. "What would need to happen to make our offering worth the price I quoted you?"</h3>
 When a prospect pushes back on price, it's possible they don't have the budget for your product/service. It's also possible you simply haven't done a good enough job of selling it.
 
 By asking "What would need to happen to make our offering more valuable to you?" You can uncover gaps in the case you've made and identify objections that might still exist.
 
 It allows you to add or argue value for your offering and -- if you meet the needs outlined by your prospect -- to earn full price.
 
-8. "Would a month-to-month plan be enough to get you to close today?"
+<h3>8. "Would a month-to-month plan be enough to get you to close today?"</h3>
 You may not be able to offer this. But month-to-month plans can be a great way to get prospects to close without discounting your product/service. Month-to-month plans are usually easier for prospects to get approved than annual contracts.
 
 If you believe this prospect is a great fit for your solution, a month-to-month contract shouldn't scare you. Instead, you get the chance to prove your value to your prospect-turned-customer and earn the annual contract -- or the cross-sell or upsell -- in the future.
 
-9. "What if we connect next quarter? Do you think you'd have more budget open up then?"
+<h3>9. "What if we connect next quarter? Do you think you'd have more budget open up then?"</h3>
 Sometimes your solution is just not in the cards for a prospect's budget. Hopefully, you've discovered this early in the buyer's journey, before you've devoted too much time to trying to close them now.
 
 Make sure you've exhausted all opportunities to work with a prospect who's really enthusiastic about your offer. But, if the budget just isn't there, you can gently ask this question to lead both parties into the best option at the moment.

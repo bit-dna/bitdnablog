@@ -11,7 +11,7 @@ Back in the days where we depending our leads sources to Google Ads Networks, an
 
 And then now we are open to public using Google Forms for you to apply as our affiliates, The reason why we only published thru the Google Forms that we were validating our applicant affiliates, we are looking for long term commitment instead short term.
 
-We are using machine learning to analyze for instance are you suitable as our affiliates or not, and how much you able to refer some customers, and others.
+We are using machine learning to analyze for instance are you suitable as our affiliates or not, and how much you able to refer some customers, and many others.
 
 If we accepted you as our partner you will receive Parter ID that you need to remember as we do validation when you're refer some customer to us.
 

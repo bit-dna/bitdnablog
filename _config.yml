@@ -61,6 +61,12 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+# Sitemap
+sitemap:
+  lastmod: 2014-01-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

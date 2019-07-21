@@ -15,6 +15,6 @@ We are using machine learning to analyze for instance are you suitable as our af
 
 If we accepted you as our partner you will receive Affiliates ID that you need to remember as we do validation when you're refer some customer to us.
 
-Our commission fee based on percentage and depending of our big is it the project scope we are doing, Mostly our affiliates are receive commission 5% - 10% for one time, but again it's depend on the project condition.
+Our commission fee based on percentage and depending of our big is it the project scope we are doing, Mostly our affiliates are receive commission 5% - 20% for one time, but again it's depend on the project condition for furthermore discussion.
 
 If you're interested to join our affiliates program, please kindly to fill this form <a href="https://forms.gle/2vQs2ayVU3gJd5q36" target="_blank">affiliates registration</a>

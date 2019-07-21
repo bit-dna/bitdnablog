@@ -13,4 +13,4 @@ One of our products that at the very beginning for blog, and day by day, month b
 <li>All of the infrastructure we hosted for Himagz.com are in AWS SGP Region and which is it wasn't fixed pricing instead we pay them in the minutes/hourly</li>
 </ol>
 
-Least but not least we released this blog are intended to replace Himagz, so it more centralizing an article we released. We would like to say thank you very much for a couple years was supported Himagz until yesterday.
+Least but not least we released this blog are intended to replace Himagz, so it more centralizing an article we released. We would like to say thank you very much to himagz.com readers for a couple years was supported Himagz until yesterday.

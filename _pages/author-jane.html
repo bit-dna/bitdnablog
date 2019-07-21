@@ -5,11 +5,13 @@ permalink: "/author-jane.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
-    <div class="col-md-8">        
+    <div class="col-md-8">
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.jane.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.jane.site }}">{{ site.authors.jane.site }}</a></p>
+                <h2 class="font-weight-bold">{{page.title}}</h2>
+                <p><span><a target="_blank" href="{{ author.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>
+                  	<a href="{{ author.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a>
+                  </p>
                 <p class="excerpt">{{ site.authors.jane.bio }}</p>
             </div>
             <div class="col-md-3 text-right">

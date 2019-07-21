@@ -7,14 +7,14 @@ image: assets/images/img/bitdna-affiliates.jpg
 tags: [sticky, featured]
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+Back in the days where we depending our leads sources to Google Ads Networks, and then we got some leads from words of mouth of our services which is we only accepted a few friends of our Founder, And then we realize how powerful it is using affiliates network.
 
-#### Early 18th century woodcut of Bucharest
+And then now we are open to public using Google Forms for you to apply as our affiliates, The reason why we only published thru the Google Forms that we were validating our applicant affiliates, we are looking for long term commitment instead short term.
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+We are using Big Data to analyze for instance are you suitable as our affiliates or not using machine learning we do validation.
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+If we accepted you as our partner you will receive Parter ID that you need to remember as we do validation when you're refer some customer to us.
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
+Our commission fee based on percentage and depending of our big is it the project scope we are doing, Mostly our affiliates are receive commission 5% - 10% for one time, but again it's depend on the project condition.
 
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+If you're interested to join our affiliates program, please kindly to fill this form <a href="https://forms.gle/rdCVZWXJur1QKUmc6" target="_blank">affiliates registration</a>

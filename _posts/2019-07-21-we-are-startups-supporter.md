@@ -2,7 +2,7 @@
 layout: post
 title:  "We are Startups Supporter"
 author: anastasia
-categories: [ What's New, Tips ]
+categories: [ What's New, Startups ]
 image: assets/images/img/startup-icon.jpg
 tags: [startup]
 ---

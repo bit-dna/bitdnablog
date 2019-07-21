@@ -21,20 +21,20 @@ Here’s a look at their report:
 <ol>
 <li>Python</li>
 <li>Java</li>
-<li>Javascript/li>
-<li>C/C++/li>
-<li>Ruby/li>
-<li>Go/li>
-<li>Kotlin/li>
-<li>PHP/li>
-<li>Objective C/li>
-<li>Swift/li>
-<li>C#/li>
-<li>Typescript/li>
-<li>Rust/li>
-<li>R/li>
-<li>Perl/li>
-<li>Scala/li>
+<li>Javascript</li>
+<li>C/C++</li>
+<li>Ruby</li>
+<li>Go</li>
+<li>Kotlin</li>
+<li>PHP</li>
+<li>Objective C</li>
+<li>Swift</li>
+<li>C#</li>
+<li>Typescript</li>
+<li>Rust</li>
+<li>R</li>
+<li>Perl</li>
+<li>Scala</li>
 </ol>
 <strong>Most used framework technologies:</strong>
 <ol>

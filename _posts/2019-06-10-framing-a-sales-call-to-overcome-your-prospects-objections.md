@@ -4,7 +4,6 @@ title:  "Framing a Sales Call to Overcome Your Prospects' Objections"
 author: anastasia
 categories: [ Sales, Tips ]
 image: assets/images/img/sales-call.jpg
-tags: [featured]
 ---
 "Why should I buy from you? Why should I buy your product? Why should I choose your solution?"
 

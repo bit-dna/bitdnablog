@@ -4,6 +4,7 @@ title:  "System Integrator Services"
 author: anastasia
 categories: [ What's New ]
 image: assets/images/img/system-integrator.jpg
+tags: [featured]
 ---
 Today we are extending our services to System Integrator or known as SI, In decades we have been serve varies system integrations area for Banking, Financial Technology, Electronics, Engineering, Finance, Telecommunication, Transportation, Shipping, Manufacture, Machinery, Media, Education, Automotive, Insurances, Retail, Agriculture, Biotechnology, Airlines, and so on. Our expertise wide range from SAP, Windows Server, Amadeus, IBM AS/400 and etc
 

@@ -4,7 +4,7 @@ title:  "BITDNA partnership with Shopify"
 author: anastasia
 categories: [ What's New, Partnership ]
 image: assets/images/img/shopify-partners.jpg
-tags: [ shopify ]
+tags: [shopify]
 ---
 Friday are such a big moment for us, that we are partnership with Shopify. Shopify are the leading ecommerce hosted platform in the market, with reliable, secure, and robust.
 

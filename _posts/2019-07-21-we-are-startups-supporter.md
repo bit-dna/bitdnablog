@@ -8,7 +8,7 @@ tags: [featured]
 ---
 There are lot of things we do in the past, at the very beginning BITDNA are only startup where it's only a few people are work with us and we only have a few capital in our bank account. But then we received only a few projects at that time, during 2010 back then our Founder itself are our engineer, wrote the code, do soft selling, pitching to customer, calculate some amount of for our projects.
 
-That is the reason why we at July 2019 startup supporter.
+And we are the only one in the software house or creative agency has a program for Startups Supporter
 
 <h3>What's that meant?</h3>
 

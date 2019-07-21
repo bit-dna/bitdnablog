@@ -6,7 +6,6 @@ categories: [ What's New, tutorial ]
 image: assets/images/img/bitdna-affiliates.jpg
 tags: [sticky, featured]
 ---
-
 Back in the days where we depending our leads sources to Google Ads Networks, and then we got some leads from words of mouth of our services which is we only accepted a few friends of our Founder, And then we realize how powerful it is using affiliates network.
 
 And then now we are open to public using Google Forms for you to apply as our affiliates, The reason why we only published thru the Google Forms that we were validating our applicant affiliates, we are looking for long term commitment instead short term.

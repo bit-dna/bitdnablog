@@ -5,8 +5,6 @@ author: anastasia
 categories: [ Startups ]
 image: assets/images/img/startuptoscaleup.jpg
 ---
-
-what-why-and-terminology-startups
 A startup is a venture that is initiated by its founders around an idea or a problem with a potential for significant business opportunity and impact. Often the actual development starts even before that with a search of an idea or a meaningful problem worth solving and building a committed founding team aligned with shared vision to make that vision into reality.
 
 Aim of the initial founder(s) is to establish a committed co-founder team with necessary skills and abilities to be able to validate the initial problem/solution fit and product/market fit, before scaling it to significant company and self sustained business.

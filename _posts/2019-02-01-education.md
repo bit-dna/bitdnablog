@@ -41,7 +41,7 @@ I appreciate your question. Before we talk about discounting, I'd love to find o
 I think we should set up a 30-minute call this week. Would you like to book a time on my calendar that's convenient for you? [Insert calendar link here]
 <br/><br/><br/>
 Best,
-<br/><br/>
+<br/><br/><br/>
 [Your Name]</p>
 </div>
 </div>

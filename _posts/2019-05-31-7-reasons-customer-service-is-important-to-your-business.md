@@ -12,7 +12,7 @@ However, it might seem like a waste to invest any more money in your customer se
 
 Contrary to popular belief, your customer service team should be just as important as -- if not more important than -- the other teams. After all, it’s the direct connection between your customers and your business
 
-<h3>Customer retention is cheaper than customer acquisition.</h3>
+<h3>1. Customer retention is cheaper than customer acquisition.</h3>
 
 An increase in customer retention of merely 5% can equate to an increase in profit of at least 25%. This is because repeat customers are more likely to spend more with your brand -- 67% more, to be exact -- which then results in your business having to spend less on operating costs.
 

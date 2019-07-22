@@ -5,7 +5,7 @@ author: anastasia
 categories: [ Sales, Tips ]
 image: assets/images/img/sales-call.jpg
 ---
-"Why should I buy from you? Why should I buy your product? Why should I choose your solution?"
+Why should I buy from you? Why should I buy your product? Why should I choose your solution?
 
 While your prospects may not ask these questions aloud, you can bet their inside voice is bringing them up during your sales calls.
 

@@ -21,4 +21,4 @@ BITDNA are established since 2009 in the very beginning are operated legally as 
 
 <strong>Our mission</strong> is customer satisfaction, because customer satisfaction is the measurement of the standard of our service. Therefore, once you have decided to partner us, it is part of our assurance that the project will be carried out quickly, efficiently and to specifications.
 
-Least but not least We hope you're enjoy and more productive our new blog
+Least but not least We hope you're enjoy our new blog

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing our BITDNA Blog"
+title:  "Welcome to BITDNA Blog"
 author: anastasia
 categories: [ What's New ]
 image: assets/images/img/bitdna-blog-teaser.jpg

@@ -20,6 +20,6 @@ Shopify itself established since 2004 and now became the market leader for ecomm
 
 Would like to read our presentation for partnership with Shopify? No worries we cover up <a href="https://docs.google.com/presentation/d/e/2PACX-1vT32hDRrRDCY9fJ8ZRTLCqqe6vtlDa6YjjaUGwnfelKqb8scyKoUnOSLeHZQHLEqNpmJe4rV5aEM-ZW/pub?start=false&loop=false&delayms=60000" target="_blank">Read our Presentation</a>
 
-We cannot wait our journey established partnership with Shopify
+We cannot await our journey established partnership with Shopify
 
-<small>PS: We might be release some coolest addons there</small>
+<small>PS: We might be release some coolest add-ons there</small>

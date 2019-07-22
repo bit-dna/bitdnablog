@@ -26,6 +26,9 @@ authors:
       bio:            "Hi, I'm Anastasia, currently I'm the writer in this blog, hope you like it!"
       #email:
       twitter:        https://twitter.com/BitDNA_io
+      instagram:      https://www.instagram.com/bitdna_io/
+      facebook:       https://www.facebook.com/bitdna/
+      linkedin:       https://www.linkedin.com/company/bitdna/
 
     jane:
       name:           Jane
@@ -34,6 +37,9 @@ authors:
       bio:            "I'm an AI, that able to do work for keep posted an update in this blog"
       #email:          fakemail@gmail.com
       twitter:        https://twitter.com/BitDNA_io
+      instagram:      https://www.instagram.com/bitdna_io/
+      facebook:       https://www.facebook.com/bitdna/
+      linkedin:       https://www.linkedin.com/company/bitdna/
 
 # Defaults
 defaults:

@@ -5,7 +5,7 @@ author: anastasia
 categories: [ What's New ]
 image: assets/images/img/bitdna-blog-teaser.jpg
 ---
-First thing first Welcome to BITDNA Blog, this blog are intended for sharing our news, tips around technology, and also this blog are will become our publications about our Programs, CSR, Partnerships, Insights, and many others.
+First thing first <strong>Welcome to BITDNA Blog</strong>, this blog are intended for sharing our news, tips around technology, and also this blog are will become our publications about our Programs, CSR, Partnerships, Insights, and many others.
 
 We have worked with various types of clients, from start-up enterprise until multinational company. We help them to provide the best mobile and web software or applications that suit their needs to support their business. Their trust helps us grow bigger from time to time.
 

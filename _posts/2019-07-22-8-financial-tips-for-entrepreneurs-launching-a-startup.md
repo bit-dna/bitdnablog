@@ -53,4 +53,4 @@ Rather than just say, “I want to build a multi-million dollar company,” you 
 
 Monthly, weekly or even daily revenue goals allow you to stay on track and make the adjustments necessary for constant growth. You can even set milestones to hit along the way, giving you a lot of smaller goals to constantly hit. Knocking out little goals can give you the confidence needed to keep powering through the entrepreneurial journey.
 
-<div class="sumber"><a href="https://www.entrepreneur.com/article/290617">Source</a></div>
+<div"><a href="https://www.entrepreneur.com/article/290617" class="sumber">Source</a></div>

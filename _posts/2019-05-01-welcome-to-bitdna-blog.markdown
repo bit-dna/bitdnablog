@@ -20,3 +20,5 @@ BITDNA are established since 2009 in the very beginning are operated legally as 
 <strong>Our vision</strong> is to offer a complete solution for your IT needs. Let us take care of your IT needs while you focus on your business. We do not just use the cutting edge modern technology because technology alone does not guarantee success but we also perform comprehensive analysis and work with you to understand your business objectives.
 
 <strong>Our mission</strong> is customer satisfaction, because customer satisfaction is the measurement of the standard of our service. Therefore, once you have decided to partner us, it is part of our assurance that the project will be carried out quickly, efficiently and to specifications.
+
+Least but not least We hope you're enjoy and more productive our new blog

@@ -22,4 +22,4 @@ Would like to read our presentation for partnership with Shopify? No worries we 
 
 We cannot await our journey established partnership with Shopify
 
-<small>PS: We might be release some coolest add-ons there</small>
+<small>PS: We might be release some coolest add-ons there, stay tuned by subscribe our newsletter</small>

@@ -5,7 +5,7 @@ author: jane
 categories: [ Tips, Startups ]
 image: assets/images/img/startup-3.jpg
 ---
-If you are thinking of launching a startup, it’s far from easy. Here are eight tips to help you avoid some of the common financial mistakes entrepreneurs make when starting a new business.
+It helps to keep these six considerations in mind when starting a new business.
 
 <strong>1. Market evaluation.</strong>
 
@@ -31,4 +31,4 @@ Do not overlook the basics such as the legal form of your business (proprietorsh
 
 This last point is seldom mentioned by the experts, but is very important in my opinion. Do you have what it takes to run your own business? There will be difficult times as you embark on your new venture. No security of a pay cheque and ups and downs in the cash flow. It is also "lonely" at the top if you start a small business. While these are "personal" issues, they are extremely important. Better to answer these questions in advance. BDC’s website has a Start up guide that provides an overview of the start-up process from A to Z including links to online tools and sites that you may find useful. Another good source is to ask two or three self-employed business people who can share their own experience with you.)
 
-<div><a href="https://www.bdc.ca/en/articles-tools/start-buy-xtusiness/start-business/pages/6-smart-tips-managing-start-up.aspx" class="sumber">Source</a></div>
+<div><a href="https://www.bdc.ca/en/articles-tools/start-buy-business/start-business/pages/6-smart-tips-managing-start-up.aspx" class="sumber">Source</a></div>

@@ -803,3 +803,18 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+.sumber {
+	 font-size: 8px;
+ }
+a.sumber:link{
+	text-decoration: underline;
+	font-size: 8px;
+}
+a.submber:visited{
+	text-decoration: underline;
+	font-size: 8px;
+}
+a.sumber:hover{
+	text=decoration: none
+	font-size: 8px;
+}

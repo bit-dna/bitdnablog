@@ -808,16 +808,16 @@ div.a2a_full_footer {display:none;}
  }
 a.sumber:link{
 	text-decoration: underline;
-	font-size: 10px;
+	font-size: 12px;
 	color: #000;
 }
 a.submber:visited{
 	text-decoration: underline;
-	font-size: 10px;
+	font-size: 12px;
 	color: #000;
 }
 a.sumber:hover{
 	text=decoration: none
-	font-size: 10px;
+	font-size: 12px;
 	color: inherit;
 }

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "9 Ways to Respond When Your Prospect Asks for a Discount"
+author: jane
 categories: [ Sales, Tips ]
 image: assets/images/img/9waystorespondwhenyourprospectasksforadiscount.jpg
 ---

@@ -18,7 +18,7 @@ Shopify itself established since 2004 and now became the market leader for ecomm
 <li>Shopify Experts</li>
 </ol>
 
-Would like to read our presentation for partnership with Shopify? No worries we cover up <a href="https://docs.google.com/presentation/d/e/2PACX-1vT32hDRrRDCY9fJ8ZRTLCqqe6vtlDa6YjjaUGwnfelKqb8scyKoUnOSLeHZQHLEqNpmJe4rV5aEM-ZW/pub?start=false&loop=false&delayms=60000" target="_blank">Read our Presentation</a>
+Would like to read our presentation for partnership with Shopify? No worries we cover up <a href="https://docs.google.com/presentation/d/e/2PACX-1vSeyYordQAGnjCXqh-DljCfRDHrXz-6yYpgDS06E-xTJWi2xwxvr8dsN-qToRUmWlPbjb9bpKhfs0H_/pub?start=false&loop=false&delayms=60000" target="_blank">Read our Presentation</a>
 
 We cannot await our journey established partnership with Shopify
 

@@ -29,7 +29,7 @@ Let's break those adopter types down in the section below.
 
 <h2>5 Adopter Categories</h2>
 
-<img src="./assets/images/img/diffusionofinnovationtheory.png"/>
+<img src="//blog.bitdna.io/assets/images/img/diffusionofinnovationtheory.png"/>
 
 <h3>1. Innovators</h3>
 These people are known for being adventurous and curious risk-takers. They love trying something new, are fascinated by technology, and often come up with new ideas of their own. Innovators enjoy the idea of leading a new movement and don't require much convincing to test out something new.

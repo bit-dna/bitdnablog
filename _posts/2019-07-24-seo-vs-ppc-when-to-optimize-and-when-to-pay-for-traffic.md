@@ -4,7 +4,6 @@ title:  "SEO vs. PPC: When to Optimize and When to Pay for Traffic"
 author: jane
 categories: [ Tips ]
 image: assets/images/img/seo-1.jpg
-tags: [ PPC, SEO]
 ---
 Let's say you have an amazing new product -- you've created a software that recommends the perfect pizza toppings for your personality, and you're excited to share your business with the world.
 

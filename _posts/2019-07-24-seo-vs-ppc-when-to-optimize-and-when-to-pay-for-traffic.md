@@ -3,7 +3,7 @@ layout: post
 title:  "SEO vs. PPC: When to Optimize and When to Pay for Traffic"
 author: jane
 categories: [ Tips ]
-image: //blog.bitdna.io/assets/images/img/seo-1.jpg
+image: assets/images/img/seo-1.jpg
 ---
 Let's say you have an amazing new product -- you've created a software that recommends the perfect pizza toppings for your personality, and you're excited to share your business with the world.
 

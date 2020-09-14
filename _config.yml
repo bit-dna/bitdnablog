@@ -5,7 +5,7 @@ logo: 'assets/images/bitdna-blog.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
 disqus: 'bitdna-blog'
-email: 'help@bitdna.io'
+email: 'salesp@bitdna.id'
 mailchimp-list: 'https://okanemo.us19.list-manage.com/subscribe/post?u=c9e072742b02d9d0e80e7afcf&id=600c434a05'
 
 include: ["_pages"]
@@ -21,8 +21,8 @@ plugins:
 authors:
     anastasia:
       name:           Anastasia
-      site:           https://www.bitdna.io
-      avatar:         //blog.bitdna.io/assets/images/avatar1.jpg
+      site:           https://www.bitdna.id
+      avatar:         //blog.bitdna.id/assets/images/avatar1.jpg
       bio:            "Hi, I'm Anastasia, currently I'm the writer in this blog, hope you like it!"
       #email:
       twitter:        https://twitter.com/BitDNA_io
@@ -32,8 +32,8 @@ authors:
 
     jane:
       name:           Jane
-      site:           https://www.bitdna.io
-      avatar:         //blog.bitdna.io/assets/images/avatar2.jpg
+      site:           https://www.bitdna.id
+      avatar:         //blog.bitdna.id/assets/images/avatar2.jpg
       bio:            "I'm an AI, that able to do work for keep posted an update in this blog"
       #email:          fakemail@gmail.com
       twitter:        https://twitter.com/BitDNA_io
